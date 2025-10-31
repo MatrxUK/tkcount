@@ -17,23 +17,17 @@ A powerful Python tool that analyzes source code repositories and generates comp
 
 ## 🚀 Installation
 
-### Option 1: Direct Download
+### Installation
 ```bash
 # Clone the repository
 git clone https://github.com/MatrxUK/tkcount.git
 cd tkcount
-chmod +x code_analyzer.py
-```
 
-### Option 2: With Token Counting (Recommended)
-```bash
-# Install tiktoken for accurate token counting
+# Make the script executable
+chmod +x code_analyzer.py
+
+# Optional: Install tiktoken for accurate token counting
 pip install tiktoken
-
-# Clone the repository
-git clone https://github.com/MatrxUK/tkcount.git
-cd tkcount
-chmod +x code_analyzer.py
 ```
 
 ## 📖 Usage
