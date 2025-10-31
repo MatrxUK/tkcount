@@ -19,8 +19,9 @@ A powerful Python tool that analyzes source code repositories and generates comp
 
 ### Option 1: Direct Download
 ```bash
-# Clone or download the script
-curl -O https://example.com/code_analyzer.py
+# Clone the repository
+git clone https://github.com/MatrxUK/tkcount.git
+cd tkcount
 chmod +x code_analyzer.py
 ```
 
@@ -29,8 +30,9 @@ chmod +x code_analyzer.py
 # Install tiktoken for accurate token counting
 pip install tiktoken
 
-# Download the script
-curl -O https://example.com/code_analyzer.py
+# Clone the repository
+git clone https://github.com/MatrxUK/tkcount.git
+cd tkcount
 chmod +x code_analyzer.py
 ```
 
@@ -209,8 +211,8 @@ We welcome contributions! Please:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/code-analyzer.git
-cd code-analyzer
+git clone https://github.com/MatrxUK/tkcount.git
+cd tkcount
 pip install tiktoken  # For development
 python3 code_analyzer.py .  # Test on itself
 ```
@@ -256,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- Open an [issue](https://github.com/yourusername/code-analyzer/issues) on GitHub
+- Open an [issue](https://github.com/MatrxUK/tkcount/issues) on GitHub
 - Check the [troubleshooting guide](docs/troubleshooting.md) (if available)
 
 ---
